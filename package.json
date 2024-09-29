@@ -1,0 +1,32 @@
+{
+  "name": "bloginterface",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "@vueuse/components": "^11.0.3",
+    "@vueuse/core": "^11.0.3",
+    "cherry-markdown": "^0.8.46",
+    "element-plus": "^2.8.1",
+    "pinia": "^2.2.2",
+    "pinia-plugin-persistedstate": "^4.0.0-alpha.4",
+    "vue": "^3.4.29",
+    "vue-router": "^4.3.3",
+    "zipson": "^0.2.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1"
+  },
+  "description": "This template should help get you started developing with Vue 3 in Vite.",
+  "main": "vite.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
